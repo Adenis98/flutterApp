@@ -1,0 +1,121 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+# Flutter/Dart specific
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+build/
+generated_plugin_registrant.dart
+
+# IntelliJ related
+.idea/
+*.iml
+*.ipr
+*.iws
+.idea/modules.xml
+.idea/*.iml
+.idea/workspace.xml
+.idea/libraries
+.idea/vcs.xml
+.idea/.name
+
+# VS Code related
+.vscode/
+.vscode/settings.json
+.vscode/launch.json
+.vscode/extensions.json
+
+# Mac related
+.DS_Store
+
+# Linux related
+.directory
+
+# Windows related
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Android specific
+android/app/build/
+android/.gradle/
+android/.idea/
+android/local.properties
+android/.settings/
+android/captures/
+
+# iOS specific
+ios/Flutter/.last_build_id
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/Runner.xcodeproj/project.xcworkspace/
+ios/Runner.xcodeproj/xcuserdata/
+ios/Runner.xcodeproj/project.xcworkspace/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+
+# Xcode
+*.xcworkspace
+*.xcuserdata
+*.xcodeproj/*.pbxuser
+*.xcodeproj/*.mode1v3
+*.xcodeproj/*.mode2v3
+*.xcodeproj/*.perspectivev3
+
+# CocoaPods
+ios/Pods/
+ios/Podfile.lock
+ios/.flutter-plugins-dependencies
+ios/.symlinks/
+
+# Flutter env variables
+.env
+.env.*
+
+# Google Service Info plist
+ios/Runner/GoogleService-Info.plist
+android/app/google-services.json
