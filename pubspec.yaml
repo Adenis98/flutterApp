@@ -53,7 +53,8 @@ dependencies:
   simple_animations: ^4.1.0
   supercharged: ^2.1.1
   shared_preferences: 2.0.15
-
+dependency_overrides:
+  win32: null
 dev_dependencies:
   flutter_test:
     sdk: flutter
